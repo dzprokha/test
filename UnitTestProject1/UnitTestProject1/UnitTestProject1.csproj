@@ -50,6 +50,9 @@
     </Otherwise>
   </Choose>
   <ItemGroup>
+    <Compile Include="UnitTest1 - Copy %282%29.cs" />
+    <Compile Include="UnitTest1 - Copy %283%29.cs" />
+    <Compile Include="UnitTest1 - Copy.cs" />
     <Compile Include="UnitTest1.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
